@@ -21,6 +21,6 @@ console.log(user_password);
 
 // Far apparire in pagina la password dell'utente
 
-const messageElement = document.getElementById("password");
+const passwordElement = document.getElementById("password");
 
-messageElement.innerHTML = `la tua password: ${user_password}`;
+passwordElement.innerHTML = `la tua password: ${user_password}`;

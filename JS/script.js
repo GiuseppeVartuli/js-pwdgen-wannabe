@@ -15,7 +15,7 @@ console.log(your_favourite_colour);
 
 // Creazione password
 
-const user_password = your_name + your_last_name + your_favourite_colour + 23;
+const user_password = your_name + your_last_name + your_favourite_colour + "23";
 
 console.log(user_password);
 
